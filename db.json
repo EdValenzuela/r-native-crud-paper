@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "ed actualizado",
+      "telefono": "99",
+      "empresa": "lalo",
+      "correo": "correo",
+      "id": 1
+    },
+    {
+      "nombre": "ed new",
+      "telefono": "123",
+      "empresa": "test",
+      "correo": "correo",
+      "id": 2
+    }
+  ]
+}
